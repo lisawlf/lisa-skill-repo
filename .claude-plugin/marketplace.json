@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "lisa-skill-repo",
+  "owner": {
+    "name": "lisawlf"
+  },
+  "metadata": {
+    "description": "Curated Claude Code skills, managed with ecp-skillman"
+  },
+  "plugins": [
+    {
+      "name": "ecp-main",
+      "source": "./plugins/ecp-main",
+      "description": "Skills: skills/animation-vocabulary, skills/apple-design, skills/emil-design-eng, skills/find-animation-opportunities, skills/improve-animations, skills/pick-ui-library, skills/review-animations",
+      "version": "0.1.4"
+    }
+  ]
+}
