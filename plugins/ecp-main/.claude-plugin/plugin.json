@@ -1,7 +1,7 @@
 {
   "name": "ecp-main",
-  "description": "Skills: https-github-com-emilkowalski-skills, humanizer, skills/animation-vocabulary, skills/apple-design, skills/emil-design-eng, skills/find-animation-opportunities, skills/improve-animations, skills/pick-ui-library, skills/review-animations",
-  "version": "0.1.3",
+  "description": "Skills: https-github-com-emilkowalski-skills, humanizer, plugins/ecp-chat-skills/skills/caveman, plugins/ecp-chat-skills/skills/edit-article, plugins/ecp-chat-skills/skills/formatted-summary, plugins/ecp-chat-skills/skills/grilling, plugins/ecp-chat-skills/skills/micro-spec, plugins/ecp-code-agent-skills/skills/architecture-decisions, plugins/ecp-code-agent-skills/skills/diagnosing-bugs, plugins/ecp-code-agent-skills/skills/meta/create-agent-skills, plugins/ecp-code-agent-skills/skills/meta/init-agent-project, plugins/ecp-code-agent-skills/skills/meta/mcp-builder, plugins/ecp-code-agent-skills/skills/planning/codebase-design, plugins/ecp-code-agent-skills/skills/planning/improve-codebase-architecture, plugins/ecp-code-agent-skills/skills/tdd, plugins/ecp-code-agent-skills/skills/teach, plugins/ecp-code-agent-skills/skills/web/favicon-generator, plugins/ecp-code-agent-skills/skills/web/og-image-creator, plugins/ecp-code-agent-skills/skills/web/planning/color-architect, plugins/ecp-code-agent-skills/skills/web/planning/generate-app-names, plugins/ecp-code-agent-skills/skills/web/planning/minimalist-web-design, plugins/ecp-code-agent-skills/skills/web/seo-optimizer, skills/animation-vocabulary, skills/apple-design, skills/emil-design-eng, skills/find-animation-opportunities, skills/improve-animations, skills/pick-ui-library, skills/review-animations",
+  "version": "0.1.4",
   "author": {
     "name": "lisawlf"
   }
