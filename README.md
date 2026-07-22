@@ -36,13 +36,17 @@ Each plugin lists its skills with a summary, source, and license.
 > | 🤖 | self-invoked by the agent only, hidden from the `/` menu |
 > | 👤 | user-invoked only, Claude will not load it on its own |
 
-### ecp-main · v0.1.4
+### ecp-main · v0.1.5
 
 _No description._
 
 ```
 /plugin install ecp-main@lisa-skill-repo
 ```
+
+| Skill | Use | What it does | Source | License |
+|---|---|---|---|---|
+| [humanizer](plugins/ecp-main/skills/humanizer) | 🤖👤 | Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive "Signs of AI writing" guide. Detects and fixes patterns including: inflated symbolism, promotional language, superficial -ing analyses, vague attributions, em dash overuse, rule of three, AI vocabulary words, passive voice, negative parallelisms, and filler phrases. | - | - |
 
 **skills**
 
